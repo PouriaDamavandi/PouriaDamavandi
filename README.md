@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PouriaDamavandi
+- 👋 Hi, I’m @Damavandi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on learning
+- 🌱 I’m currently learning Javascript and React
+- 💞️ I’m looking to collaborate on learning and working on projects
 - 📫 How to reach me damavandipouria@gmail.com
 
 <!---
