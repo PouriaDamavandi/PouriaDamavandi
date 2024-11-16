@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Netis Company <br>👯 I’m looking to collaborate on mini and fun projects<br>🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about my front-end journey <br>⚡ Fun fact is that i start to learn coding in my 30s
+🔭 I’m currently working on YariResan Company <br>👯 I’m looking to collaborate on mini and fun projects<br>🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about my front-end journey <br>⚡ Fun fact is that i start to learn coding in my 30s
 
 
 ## 🌐 Socials:
