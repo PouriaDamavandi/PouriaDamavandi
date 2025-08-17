@@ -12,7 +12,6 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- Auto-populated by workflow -->
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
