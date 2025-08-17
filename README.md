@@ -10,7 +10,6 @@
 ✉️ **Reach me:** [damavandipouria@gmail.com](mailto:damavandipouria@gmail.com)
 
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack
 
 ### 🌟 Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
