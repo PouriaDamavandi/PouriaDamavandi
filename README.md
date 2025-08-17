@@ -1,10 +1,10 @@
 # 💫 About Me:
 🎯 **Mission:** Turning coffee into clean code since my 30s!  
-💻 **Front-end Engineer** @ Freelance | React Enthusiast 
-🌱 **Currently:** Mastering TypeScript & Next.js
-🤝 **Looking for:** Fun collabs on creative projects  
-📚 **Ask me about:** My unconventional coding journey  
-⚡ **Fun fact:** Former non-tech professional turned coder  
+💻 **Front-end Engineer** @ Freelance | React Enthusiast   
+🌱 **Currently:** Mastering TypeScript & Next.js   
+🤝 **Looking for:** Fun collabs on creative projects    
+📚 **Ask me about:** My unconventional coding journey    
+⚡ **Fun fact:** Former non-tech professional turned coder    
 
 🔗 **Portfolio:** [Pouria Damavandi](https://pouriadamavandi.ir)  
 ✉️ **Reach me:** [damavandipouria@gmail.com](mailto:damavandipouria@gmail.com)
