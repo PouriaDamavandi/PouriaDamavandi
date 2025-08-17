@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎯 **Mission:** Turning coffee into clean code since my 30s!  
 💻 **Front-end Engineer** @ Freelance | React Enthusiast 
-🌱 **Currently:** Mastering TypeScript & Next.js  
+🌱 **Currently:** Mastering TypeScript & Next.js
 🤝 **Looking for:** Fun collabs on creative projects  
 📚 **Ask me about:** My unconventional coding journey  
 ⚡ **Fun fact:** Former non-tech professional turned coder  
