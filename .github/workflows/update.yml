@@ -16,6 +16,6 @@ jobs:
           path: ./
           remote_path: ./ 
           
-      - uses: PouriaDamavandi/activity-action@main
+      - uses: PouriaDamavandi/PouriaDamavandi@main
         with:
           commitMessage: "Update activity log"
