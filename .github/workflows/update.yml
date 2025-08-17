@@ -16,6 +16,6 @@ jobs:
           path: ./
           remote_path: ./ 
           
-      - uses: jasonrudolph/activity-action@main
+      - uses: PouriaDamavandi/activity-action@main
         with:
           commitMessage: "Update activity log"
