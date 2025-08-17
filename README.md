@@ -1,13 +1,13 @@
 # 💫 About Me:
 🎯 **Mission:** Turning coffee into clean code since my 30s!  
-💻 **Front-end Developer** @ YariResan | React Enthusiast | UI/UX Lover  
+💻 **Front-end Engineer** @ Freelance | React Enthusiast 
 🌱 **Currently:** Mastering TypeScript & Next.js  
 🤝 **Looking for:** Fun collabs on creative projects  
 📚 **Ask me about:** My unconventional coding journey  
 ⚡ **Fun fact:** Former non-tech professional turned coder  
 
-🔗 **Portfolio:** [Coming Soon!]()  
-✉️ **Reach me:** [pouria@example.com](mailto:pouria@example.com)
+🔗 **Portfolio:** [pouriadamavandiportfolio](https://pouriadamavandi.ir)  
+✉️ **Reach me:** [damavandipouria@gmail.com](mailto:damavandipouria@gmail.com)
 
 ## 🛠️ Tech Stack
 ### Frontend Mastery
@@ -40,18 +40,12 @@
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pouria-damavandi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wecodejs)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/webyarstudio)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dashdashforce)
 
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Why I Started Coding in My 30s](https://example.com)
-- [React Hooks: My Aha! Moments](https://example.com)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Current Focus
 ```text
-🌱 Learning: TypeScript | Next.js | GraphQL
+🌱 Learning: JavaScript | TypeScript | Next.js | React.js
 🔭 Working on: My portfolio website
 👯 Looking to: Contribute to open source
