@@ -6,7 +6,7 @@
 📚 **Ask me about:** My unconventional coding journey  
 ⚡ **Fun fact:** Former non-tech professional turned coder  
 
-🔗 **Portfolio:** [pouriadamavandiportfolio](https://pouriadamavandi.ir)  
+🔗 **Portfolio:** [Pouria Damavandi](https://pouriadamavandi.ir)  
 ✉️ **Reach me:** [damavandipouria@gmail.com](mailto:damavandipouria@gmail.com)
 
 ## 🛠️ Tech Stack
