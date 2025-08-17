@@ -9,6 +9,11 @@
 🔗 **Portfolio:** [Pouria Damavandi](https://pouriadamavandi.ir)  
 ✉️ **Reach me:** [damavandipouria@gmail.com](mailto:damavandipouria@gmail.com)
 
+## 🚀 Recent Activity
+
+<!-- Uses GitHub's native recent activity -->
+[![Pouria's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PouriaDamavandi&theme=github-compact)](https://github.com/PouriaDamavandi)
+
 ## 🛠️ Tech Stack
 
 ### 🌟 Frontend Mastery
