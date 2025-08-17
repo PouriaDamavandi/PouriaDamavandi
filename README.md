@@ -11,8 +11,9 @@
 
 ## 🚀 Recent Activity
 
-<!-- Uses GitHub's native recent activity -->
-[![Pouria's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PouriaDamavandi&theme=github-compact)](https://github.com/PouriaDamavandi)
+<!--START_SECTION:activity-->
+<!-- Auto-populated by workflow -->
+<!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
 
