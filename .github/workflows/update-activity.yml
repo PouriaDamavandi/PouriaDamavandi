@@ -1,0 +1,27 @@
+name: Update Activity
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:        # Allows manual triggers
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install PyGithub
+      
+      - name: Run activity script
+        run: python .github/scripts/update_activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update activity log"
