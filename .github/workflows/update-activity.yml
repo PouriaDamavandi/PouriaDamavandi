@@ -14,8 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetch all history for proper commits
-          
+          fetch-depth: 0  # Fetch all history
+      
+      - name: List files to debug
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Listing .github directory:"
+          ls -la .github/
+          echo "Listing .github/scripts directory:"
+          ls -la .github/scripts/
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
