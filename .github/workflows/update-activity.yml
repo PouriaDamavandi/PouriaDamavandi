@@ -4,18 +4,18 @@ on:
     - cron: '0 */6 * * *'  # Runs every 6 hours
   workflow_dispatch:        # Allows manual triggers
 
-# 👇 Add permissions HERE (right below the trigger events)
 permissions:
-  contents: write  # Required to update README
-  pull-requests: read  # Required to read PR events
-
+  contents: write
+  pull-requests: read
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0  # Fetch all history for proper commits
+          
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -25,11 +25,13 @@ jobs:
       
       - name: Run activity script
         run: python .github/scripts/update_activity.py
-        working-directory: ${{ github.workspace }} 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          GITHUB_REPOSITORY: ${{ github.repository }}
       
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update activity log"
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
